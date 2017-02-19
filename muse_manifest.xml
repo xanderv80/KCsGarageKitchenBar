@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcgaragekitchenbar.com" resolutions="1x" timestamp="1487305184368">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcgaragekitchenbar.com" resolutions="1x" timestamp="1487499591041">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="76449211" ref="index"/>
+    <file name="master_a-master.css" crc="42702203" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
-    <file name="index.css" crc="279665245" ref="index"/>
-    <file name="nomq_index.css" crc="4182484098" ref="index"/>
+    <file name="index.css" crc="82103551" ref="index"/>
+    <file name="nomq_index.css" crc="215790570" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,6 +14,8 @@
     <file name="jquery.watch.js" crc="3844535323" ref="index"/>
     <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
     <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
   </folder>
   <folder name="images">
     <file name="kcs-garage-kitchen-n-bar.svg" crc="4163373459" seo="true" ref="index">
@@ -22,9 +24,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kcs garage kitchen n bar_poster_.png" crc="3933138718" ref="index"/>
+    <file name="kcs garage kitchen n bar_poster_.png" crc="4178546343" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="kc-s-garage-kitchen---bar-favicon.ico" crc="304398791" ref="index"/>
+    <file name="trees.jpg" crc="238376170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4132464268" seo="true" mt="1487305162166" redirect="true"/>
+  <file name="index.html" crc="4248541229" seo="true" mt="1487499579856" redirect="true"/>
 </manifest>
