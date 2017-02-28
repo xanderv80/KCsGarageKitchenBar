@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcgaragekitchenbar.com" resolutions="1x" timestamp="1488235675179">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kcgaragekitchenbar.com" resolutions="1x" timestamp="1488325083756">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="26138057" ref="index"/>
+    <file name="master_a-master.css" crc="43638227" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3808311797" ref="index"/>
-    <file name="index.css" crc="3955304515" ref="index"/>
-    <file name="nomq_index.css" crc="286594583" ref="index"/>
+    <file name="index.css" crc="3997336814" ref="index"/>
+    <file name="nomq_index.css" crc="42232282" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,5 +29,5 @@
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="kc-s-garage-kitchen---bar-favicon.ico" crc="304398791" ref="index"/>
   </folder>
-  <file name="index.html" crc="3835143159" seo="true" mt="1488235517983" redirect="true"/>
+  <file name="index.html" crc="96259590" seo="true" mt="1488321496247" redirect="true"/>
 </manifest>
